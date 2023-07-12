@@ -1,0 +1,22 @@
+{
+  "name": "zeb-game-engine",
+  "version": "1.0.0",
+  "description": "An easy to use JS game engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zebkane/Zeb-Game-Engine.git"
+  },
+  "keywords": [
+    "zeb-game-engine"
+  ],
+  "author": "Zeb Kane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zebkane/Zeb-Game-Engine/issues"
+  },
+  "homepage": "https://github.com/zebkane/Zeb-Game-Engine#readme"
+}
